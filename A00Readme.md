@@ -1,4 +1,4 @@
-I have spent a lot of time with computers but I've raley gotten into the technical side of them. This is essentially my first attempt at a lot of this and I don't even really care about the bonus points, I just wanted to see how much of it I was actually able to teach myself and I'm pretty happy with where I got with it. I wasn't able to get absolutely everything but I was very thourough and I hope that counts for something at least.
+I have spent a lot of time with computers but I've raley gotten into the technical side of them. This is essentially my first attempt at a lot of this and I don't even really care about the bonus points, I just wanted to see how much of it I was actually able to teach myself and I'm pretty happy with where I got with it. I wasn't able to get absolutely everything but I was very thourough so I hope that counts for something.
 ![f](/CIS111A00/101.PNG)
 ![f](CIS111A00/102.png)
 ![f](CIS111A00/103.PNG)
